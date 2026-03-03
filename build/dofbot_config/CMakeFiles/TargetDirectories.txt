@@ -1,0 +1,9 @@
+/home/pan/Documents/projects/robot/p7/ros2_ws/src/build/dofbot_config/CMakeFiles/uninstall.dir
+/home/pan/Documents/projects/robot/p7/ros2_ws/src/build/dofbot_config/CMakeFiles/dofbot_config_uninstall.dir
+/home/pan/Documents/projects/robot/p7/ros2_ws/src/build/dofbot_config/CMakeFiles/test.dir
+/home/pan/Documents/projects/robot/p7/ros2_ws/src/build/dofbot_config/CMakeFiles/edit_cache.dir
+/home/pan/Documents/projects/robot/p7/ros2_ws/src/build/dofbot_config/CMakeFiles/rebuild_cache.dir
+/home/pan/Documents/projects/robot/p7/ros2_ws/src/build/dofbot_config/CMakeFiles/list_install_components.dir
+/home/pan/Documents/projects/robot/p7/ros2_ws/src/build/dofbot_config/CMakeFiles/install.dir
+/home/pan/Documents/projects/robot/p7/ros2_ws/src/build/dofbot_config/CMakeFiles/install/local.dir
+/home/pan/Documents/projects/robot/p7/ros2_ws/src/build/dofbot_config/CMakeFiles/install/strip.dir

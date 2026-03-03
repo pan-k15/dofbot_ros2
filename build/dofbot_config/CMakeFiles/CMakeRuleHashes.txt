@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+fd9e9e9c612bb8bc68e73fa007ff96c2 CMakeFiles/dofbot_config_uninstall
